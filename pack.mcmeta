@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Gives baby variants their pupils back!"
+      }
+    ],
+    "min_format": 76,
+    "max_format": 89
+  }
+}
